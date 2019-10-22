@@ -21,7 +21,7 @@
 title: Samuel Akinwusi
 email: samueltos@yahoo.com
 description: Software Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "samuel-akinwusi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samueltos1
 github_username:  samueltos
